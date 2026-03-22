@@ -57,6 +57,7 @@ Basic dataset preparation for machine learning
 Data cleaning is an essential step before analysis because raw data often contains errors, missing values, and inconsistent formatting.
 
 ## 📂 Project Structure
+```
 Data-Cleaning-Visualization-Project/
 │
 ├── dataset.csv
@@ -64,6 +65,7 @@ Data-Cleaning-Visualization-Project/
 ├── visualization.ipynb
 ├── output_images/
 └── README.md
+```
 
 ## 🙌 Future Scope
 * Building an interactive dashboard using Streamlit or Power BI
